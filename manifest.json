@@ -4,11 +4,11 @@
   "dir": "auto",
   "display": "fullscreen",
   "name": "StreamPal",
-  "id": "https://watch.dblockbuster.com/",
+  "id": "https://jebg1234.github.io/streampal/",
   "orientation": "any",
-  "scope": "https://watch.dblockbuster.com/",
+  "scope": "https://jebg1234.github.io/streampal/",
   "short_name": "StreamPal",
-  "start_url": "https://watch.dblockbuster.com/",
+  "start_url": "https://jebg1234.github.io/streampal/",
   "theme_color": "#a56ee7",
   "categories": [
     "entertainment",
@@ -475,7 +475,7 @@
   "shortcuts": [
     {
       "name": "Alternate link",
-      "url": "https://play.dblockbuster.com",
+      "url": "jebg1234.github.io/streampal",
       "description": "Alternate link for the site"
     }
   ],
