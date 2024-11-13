@@ -1,5 +1,5 @@
 let Autohide = false;
-var server = 1;
+var server = 3;
 const TodaysDate = new Date();
 const timer = ms => new Promise(res => setTimeout(res, ms));
 var imdbId;
