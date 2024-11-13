@@ -1,9 +1,5 @@
 # Streampalv2
 
-# Referal Links
-- https://billing.dacentec.com/hostbill/?affid=922
-
-
 - Free Streaming Search Engine Website called StreamPal which doesnt host any files directly on its site.
 - **Unfinished  With a P2P Video Providing Service Included ontop of the search engine design!**
 # We have updated to a newer method utilizing Third Party Provider Until DBlockbuster is finished instead of IPFS So please ignore most of this below except for the Decentralized stuff, and the autoplay function that will be coming soon...
@@ -63,3 +59,8 @@ We deprecated the concept and implementation of ipfs due to the slow serving spe
 - Electron for the NodeJS Application for File Providers! (File Providers are in) Alpha Stage Built by JEBG1234
 - Github For Hosting the Site
 - https://github.com/vampeyer/ for the additional css styling and animations added to my site!
+
+# Referal Links
+## If you wish to be put on the referal list and offer an affiliate link service please email me at pheonixriseofthe@gmail.com
+- https://billing.dacentec.com/hostbill/?affid=922
+
