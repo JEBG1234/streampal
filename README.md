@@ -1,5 +1,9 @@
 # Streampalv2
 
+# Referal Links
+- https://billing.dacentec.com/hostbill/?affid=922
+
+
 - Free Streaming Search Engine Website called StreamPal which doesnt host any files directly on its site.
 - **Unfinished  With a P2P Video Providing Service Included ontop of the search engine design!**
 # We have updated to a newer method utilizing Third Party Provider Until DBlockbuster is finished instead of IPFS So please ignore most of this below except for the Decentralized stuff, and the autoplay function that will be coming soon...
